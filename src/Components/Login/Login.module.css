@@ -1,0 +1,11 @@
+.Login{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    margin-top: 1rem;
+    /* margin: 0 auto; */
+    /* max-width: 1000px; */
+    /* height: 90vh; */
+    background-color: #2a2e3d;
+    /* background-color: blue; */
+}

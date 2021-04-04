@@ -1,0 +1,25 @@
+.Navigation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 72px;
+    background-color: #283d3b;
+    background-color: #b68973;
+    background-color: #28527a;
+    background-color: #536162;
+    background-color: #303841;
+    background-color: #222831;
+    color: #eabf9f;
+    padding : 0 2rem;
+}
+.Logo a{
+    font-size: 2rem;
+    color: #eabf9f;
+    text-decoration: none;
+}
+
+@media(max-width: 600px){
+    .Logo a{
+        font-size: 1.5rem;
+    }
+}
